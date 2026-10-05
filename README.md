@@ -1,2 +1,2 @@
 # rikhtin-school
-Public 
+Public
